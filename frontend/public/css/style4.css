@@ -1,0 +1,29 @@
+.row
+{
+    display:flex;
+    /* background-color: red; */
+}
+
+.col-lg-7
+{
+    height:400px;
+    /* background-color: red; */
+}
+
+.col-lg-5
+{
+    background-color: whitesmoke;
+    height:400px;
+    
+    
+
+}
+
+img{
+    height:400px;
+    width:400px;
+    margin-top:20px;
+}
+
+
+
