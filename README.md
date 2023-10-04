@@ -34,5 +34,14 @@ Getting Started
               2. Express.js
               3. MongoDB with Mongoose for data storage
 
+              
+              #step by step output
+
+   1. main_page: ![image](https://github.com/coder-84/xenon_website/assets/90142563/5910b440-7be9-49e7-8c02-b7de1e720742)
+  2. contact_us page ![image](https://github.com/coder-84/xenon_website/assets/90142563/7fdbec52-51c1-4148-8b1e-36b9a5794e42)
+  3. service page ![image](https://github.com/coder-84/xenon_website/assets/90142563/e4361ce9-27f5-4669-873e-cd71d3361054)
+  4. sign up page: ![image](https://github.com/coder-84/xenon_website/assets/90142563/a4976336-81ed-40ec-a25c-605323a176ca)
+
+
 
    
